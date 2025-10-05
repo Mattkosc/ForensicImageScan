@@ -2,14 +2,14 @@
 **Cosmic image scanner with GUI, entropy analysis, Supabase logging, and zine-grade spoken logs.**  
 Built in PowerShell. Designed to teach, narrate, and visualize every scan.
 
-![Badge: PowerShell 5.1+](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
-![Badge: Supabase Ready](https://img.shields.io/badge/Supabase-Enabled-green)
-![Badge: Zine Logs](https://img.shields.io/badge/Spoken--Word-Zine--Grade-purple)
-![Badge: Entropy Visualizer](https://img.shields.io/badge/Entropy--Driven-Cosmic--Trigger-magenta)
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5.1%2B-blue">
+  <img src="https://img.shields.io/badge/Supabase-Enabled-green">
+  <img src="https://img.shields.io/badge/Spoken--Word-Zine--Grade-purple">
+  <img src="https://img.shields.io/badge/Entropy--Driven-Cosmic--Trigger-magenta">
+</p>
 
 ---
-
-## 🚀 Features
 
 - 🧠 **Visual Log Overlay** – Live status box with timestamps and scan commentary  
 - 🖱️ **Right-Click Context Menu** – Scan any image directly from File Explorer  
@@ -43,6 +43,7 @@ Add this directly underneath the clone command:
 3. Apply `AddScannerContextAll.reg` to enable right-click scanning
 4. Customize `ForensicImageScan.psd1` for versioning
 5. Optional: configure Supabase URL and API key in `Send-ToSupabase.ps1`
+
 ## 🚀 Download
 
 Grab the latest working release from [v1.0.0 – Cosmic Scanner Activated](https://github.com/Mattkosc/ForensicImageScan/releases/tag/v1.0.0)
