@@ -1,6 +1,4 @@
-# ForensicImageScan
-# 🧪 ForensicImageScan
-
+# ForensicImageScan  
 **Cosmic image scanner with GUI, entropy analysis, Supabase logging, and zine-grade spoken logs.**  
 Built in PowerShell. Designed to teach, narrate, and visualize every scan.
 
@@ -8,9 +6,6 @@ Built in PowerShell. Designed to teach, narrate, and visualize every scan.
 ![Badge: Supabase Ready](https://img.shields.io/badge/Supabase-Enabled-green)
 ![Badge: Zine Logs](https://img.shields.io/badge/Spoken--Word-Zine--Grade-purple)
 ![Badge: Entropy Visualizer](https://img.shields.io/badge/Entropy--Driven-Cosmic--Trigger-magenta)
-
----
-
 ## 🚀 Features
 
 - 🧠 **Visual Log Overlay** – Live status box with timestamps and scan commentary  
